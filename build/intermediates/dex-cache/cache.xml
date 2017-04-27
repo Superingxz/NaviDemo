@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\asworkspace\NaviDemo\app\libs\AMap3DMap_5.0.0_AMapNavi_5.0.1_20170410.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39aead12087b5d124ee91bf0c36f06b0e176ea42">
+        <dex dex="E:\asworkspace\NaviDemo\app\build\intermediates\pre-dexed\debug\AMap3DMap_5.0.0_AMapNavi_5.0.1_20170410_91cc01c93a19326e7e3c066216d3228736fa4bb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ff0d1b073e6f3214dd86c5785a11b52aced1a40c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="E:\asworkspace\NaviDemo\app\build\intermediates\pre-dexed\debug\classes_e96411ae988581e474781298b24b71f4265530f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\57294ddc6398f8911efce80877625f9539ed4b9f\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="E:\asworkspace\NaviDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_3939eab2a3fd7a6ec60d072d131d6ae949a1a315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\4ba11aed7e6d56506d6e1990cd4c11d3808d6079\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="E:\asworkspace\NaviDemo\app\build\intermediates\pre-dexed\debug\classes_0072c824f5ea7ce74a720a53617a98d3cea3ac87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\a81eaf4599d74181b69c49165eaaf59e806b0847\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="E:\asworkspace\NaviDemo\app\build\intermediates\pre-dexed\debug\classes_dabee84dc2229a5ea3fb6fb5254b6cd3297d5b04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\cccb24ef021c8132e61e4c1ba12de6707a0be77f\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="E:\asworkspace\NaviDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_ba26293b03cf5ad435d82d1efd51ccafbb80c1c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ba52d19aedc8a3cb7c17fb6f053e710ac1a4668b\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="E:\asworkspace\NaviDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_58078bf8a3246ba277b0661d267600ebfde55f2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\cccb24ef021c8132e61e4c1ba12de6707a0be77f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="E:\asworkspace\NaviDemo\app\build\intermediates\pre-dexed\debug\classes_ed6e393ca453ff88c1b1d90c8ddfdc5a0db5df74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ff0d1b073e6f3214dd86c5785a11b52aced1a40c\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\asworkspace\NaviDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e31fd1fc9447d007b1311a28c4138508efbb2a35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\57294ddc6398f8911efce80877625f9539ed4b9f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="E:\asworkspace\NaviDemo\app\build\intermediates\pre-dexed\debug\classes_3f2741b491c19a894a2b70ff160b9fb0684a5b44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="E:\asworkspace\NaviDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_93fcb2afe0925c56de6251392052e0210c5be5e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\aa515a8b99d791b1b6e261b8ea8f77c72d2ba7a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="E:\asworkspace\NaviDemo\app\build\intermediates\pre-dexed\debug\classes_162ea6b070bbdc6151aa7a61ee4d490a691b5d7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\2358d4979a091ed6918b3697d82928450c1f7db3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\asworkspace\NaviDemo\app\build\intermediates\pre-dexed\debug\classes_02e120700774ed4beffa33199642e984dfeb62d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\asworkspace\NaviDemo\app\libs\Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5b88f9b0f2ebaa459163f646654fbc1e45a34d4">
+        <dex dex="E:\asworkspace\NaviDemo\app\build\intermediates\pre-dexed\debug\Msc_aa30622a5ca3eca1dbdd12633ecd1b5108d944cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\aa515a8b99d791b1b6e261b8ea8f77c72d2ba7a7\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="E:\asworkspace\NaviDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_cde0ea0edd5dca3afa8959e25bd31f38c973de1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ba52d19aedc8a3cb7c17fb6f053e710ac1a4668b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="E:\asworkspace\NaviDemo\app\build\intermediates\pre-dexed\debug\classes_272dfa0ec3f489ab6f66273cf2c1d1938bfc868e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\e9f2f61f4c04851a755ed0746b4825577fdf2e3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="E:\asworkspace\NaviDemo\app\build\intermediates\pre-dexed\debug\classes_733203dd6251aa297fe5f0725603b9b36649614a.jar" />
+    </item>
+
+</items>
